@@ -7,17 +7,11 @@ Console.Write("Введите второе число: ");
 int number2 = Convert.ToInt32(Console.ReadLine());
 if (number1 > number2)
 {
-    Console.Write("Максимум = ");
-    Console.WriteLine(number1);
-    Console.Write("Минимум = ");
-    Console.WriteLine(number2);
+    Console.Write($"Максимум = {number1}, Минимум = {number2}");
 }
 if (number1 < number2)
 {
-    Console.Write("Максимум = ");
-    Console.WriteLine(number2);
-    Console.Write("Минимум = ");
-    Console.WriteLine(number1);
+    Console.Write($"Максимум = {number2}, Минимум = {number1}");
 }
 if (number1 == number2)
 {
