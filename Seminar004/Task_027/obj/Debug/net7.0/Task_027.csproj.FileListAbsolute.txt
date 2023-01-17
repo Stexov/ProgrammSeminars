@@ -1,0 +1,15 @@
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar004/Task_027/bin/Debug/net7.0/Task_027
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar004/Task_027/bin/Debug/net7.0/Task_027.deps.json
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar004/Task_027/bin/Debug/net7.0/Task_027.runtimeconfig.json
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar004/Task_027/bin/Debug/net7.0/Task_027.dll
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar004/Task_027/bin/Debug/net7.0/Task_027.pdb
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar004/Task_027/obj/Debug/net7.0/Task_027.csproj.AssemblyReference.cache
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar004/Task_027/obj/Debug/net7.0/Task_027.GeneratedMSBuildEditorConfig.editorconfig
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar004/Task_027/obj/Debug/net7.0/Task_027.AssemblyInfoInputs.cache
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar004/Task_027/obj/Debug/net7.0/Task_027.AssemblyInfo.cs
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar004/Task_027/obj/Debug/net7.0/Task_027.csproj.CoreCompileInputs.cache
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar004/Task_027/obj/Debug/net7.0/Task_027.dll
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar004/Task_027/obj/Debug/net7.0/refint/Task_027.dll
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar004/Task_027/obj/Debug/net7.0/Task_027.pdb
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar004/Task_027/obj/Debug/net7.0/Task_027.genruntimeconfig.cache
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar004/Task_027/obj/Debug/net7.0/ref/Task_027.dll

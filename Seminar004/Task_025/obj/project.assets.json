@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "/Users/steksov_d/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar004/Task_025/Task_025.csproj",
+      "projectName": "Task_025",
+      "projectPath": "/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar004/Task_025/Task_025.csproj",
+      "packagesPath": "/Users/steksov_d/.nuget/packages/",
+      "outputPath": "/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar004/Task_025/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/steksov_d/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
