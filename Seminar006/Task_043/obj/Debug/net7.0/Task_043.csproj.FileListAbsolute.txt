@@ -1,0 +1,15 @@
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar006/Task_043/obj/Debug/net7.0/Task_043.csproj.AssemblyReference.cache
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar006/Task_043/obj/Debug/net7.0/Task_043.GeneratedMSBuildEditorConfig.editorconfig
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar006/Task_043/obj/Debug/net7.0/Task_043.AssemblyInfoInputs.cache
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar006/Task_043/obj/Debug/net7.0/Task_043.AssemblyInfo.cs
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar006/Task_043/obj/Debug/net7.0/Task_043.csproj.CoreCompileInputs.cache
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar006/Task_043/bin/Debug/net7.0/Task_043
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar006/Task_043/bin/Debug/net7.0/Task_043.deps.json
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar006/Task_043/bin/Debug/net7.0/Task_043.runtimeconfig.json
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar006/Task_043/bin/Debug/net7.0/Task_043.dll
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar006/Task_043/bin/Debug/net7.0/Task_043.pdb
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar006/Task_043/obj/Debug/net7.0/Task_043.dll
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar006/Task_043/obj/Debug/net7.0/refint/Task_043.dll
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar006/Task_043/obj/Debug/net7.0/Task_043.pdb
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar006/Task_043/obj/Debug/net7.0/Task_043.genruntimeconfig.cache
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Seminar006/Task_043/obj/Debug/net7.0/ref/Task_043.dll
