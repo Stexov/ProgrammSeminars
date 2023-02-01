@@ -26,24 +26,24 @@ void PrdoubleMatrix(int[,] matrix)
         Console.WriteLine();
     } 
 }
-const int rows = 4;
+const int rows = 5;
 const int columns = 4;
-const int leftRange = 0;
+const int leftRange = 10;
 const int rightRange = 100;
 
-Console.WriteLine("Введите любое число");
-int num = Convert.ToInt32(Console.ReadLine());
-int n = (num - 1) / rows;
-int m = (num - 1) % rows;
+Console.WriteLine("Введите номер строки");
+int numRows = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите номер столбца");
+int numColumns = Convert.ToInt32(Console.ReadLine());
 
-int[, ] array = GetRandomMatrix(rows, columns, leftRange, rightRange);
-PrdoubleMatrix(array);
-
-if(num > rows * columns)
+if(numRows > rows || numColumns > columns)
 {
     Console.WriteLine("Такого элемента в массиве нет");
 }
 else
 {
-    Console.WriteLine($"Элемент массива с номером {num} = {array[n, m]}");
+    int[, ] array = GetRandomMatrix(rows, columns, leftRange, rightRange);
+    PrdoubleMatrix(array);
+    Console.WriteLine();
+    Console.WriteLine($"Искомый элемент массива = {array[numRows - 1, numColumns - 1]}");
 }
