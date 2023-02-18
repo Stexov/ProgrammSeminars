@@ -34,29 +34,7 @@ for(int i = 0; i < n; i++)
     arrayInit[i] = new string(Console.ReadLine());
 }
 
-
 Console.WriteLine("Исходный массив");
 PrintArray(arrayInit);
 Console.WriteLine("Искомый массив");
 ArraySource(arrayInit);
-
- 
-
-// int[] massive = GetRandomArray(12, -9, 9);
-// Console.WriteLine(string.Join(", ", massive));
-
-// int sumP = 0;
-// int sumN = 0;
-// for(int i = 0; i < massive.Length; i++)
-// {
-//     if(massive[i] > 0)
-//     {
-//         sumP += massive[i];
-//     }
-//     else
-//     {
-//         sumN += massive[i];
-//     }
-// }
-Console.WriteLine(arrayInit);
-//Console.WriteLine($"Сумма отрицательных чисел = {sumN}");
