@@ -1,0 +1,15 @@
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Final/FinalHomeWork/obj/Debug/net7.0/FinalHomeWork.csproj.AssemblyReference.cache
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Final/FinalHomeWork/obj/Debug/net7.0/FinalHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Final/FinalHomeWork/obj/Debug/net7.0/FinalHomeWork.AssemblyInfoInputs.cache
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Final/FinalHomeWork/obj/Debug/net7.0/FinalHomeWork.AssemblyInfo.cs
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Final/FinalHomeWork/obj/Debug/net7.0/FinalHomeWork.csproj.CoreCompileInputs.cache
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Final/FinalHomeWork/bin/Debug/net7.0/FinalHomeWork
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Final/FinalHomeWork/bin/Debug/net7.0/FinalHomeWork.deps.json
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Final/FinalHomeWork/bin/Debug/net7.0/FinalHomeWork.runtimeconfig.json
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Final/FinalHomeWork/bin/Debug/net7.0/FinalHomeWork.dll
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Final/FinalHomeWork/bin/Debug/net7.0/FinalHomeWork.pdb
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Final/FinalHomeWork/obj/Debug/net7.0/FinalHomeWork.dll
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Final/FinalHomeWork/obj/Debug/net7.0/refint/FinalHomeWork.dll
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Final/FinalHomeWork/obj/Debug/net7.0/FinalHomeWork.pdb
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Final/FinalHomeWork/obj/Debug/net7.0/FinalHomeWork.genruntimeconfig.cache
+/Users/steksov_d/Documents/ПРОГРАММИРОВАНИЕ/WORK/ProgrammSeminars/Seminars/Final/FinalHomeWork/obj/Debug/net7.0/ref/FinalHomeWork.dll
