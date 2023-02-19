@@ -25,6 +25,21 @@ int ArraySize(string[] array)
     }
     return m;
 }
+int ArraySourse(string array, int m)
+{
+    int j = 0;
+    string arrayFinal = new string[m];
+    for(int i = 0; i < array.Length; i++)
+    {
+        int s = array[i].Length;
+        if(s <= 3)
+        {
+            arrayFinal[j] = array[i];
+            j++;
+        }
+    }
+    return arrayFinal;
+}
 
 Console.WriteLine("Ввдедите размер массива");
 int n = Convert.ToInt32(Console.ReadLine());
@@ -39,3 +54,4 @@ Console.WriteLine("Исходный массив");
 PrintArray(arrayInit);
 Console.WriteLine("Искомый массив");
 ArraySize(arrayInit);
+ArraySourse(arrayInit, m);
