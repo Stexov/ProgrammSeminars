@@ -1,4 +1,4 @@
-﻿// Задача 31: Задайте массив из 12 элементов, заполненный случайными
+﻿// Написать программу, которая из имеющегося массива строк, длинна которых меньше либо равна 3
 // числами из промежутка [-9, 9]. Найдите сумму отрицательных и положительных элементов массива.
 // Например, в массиве [3,9,-8,1,0,-7,2,-1,8,-3,-1,6] сумма
 // положительных чисел равна 29, сумма отрицательных равна -20.
@@ -12,17 +12,18 @@ void PrintArray(string[] array)
     Console.WriteLine();
 }
 
-void ArraySource(string[] array)
+int ArraySize(string[] array)
 {
+    int m = 0;
     for(int i = 0; i < array.Length; i++)
     {
         int s = array[i].Length;
         if( s <= 3)
         {
-            Console.Write($"{array[i]}, ");
+            m++;
         }
     }
-    Console.WriteLine();
+    return m;
 }
 
 Console.WriteLine("Ввдедите размер массива");
@@ -37,4 +38,4 @@ for(int i = 0; i < n; i++)
 Console.WriteLine("Исходный массив");
 PrintArray(arrayInit);
 Console.WriteLine("Искомый массив");
-ArraySource(arrayInit);
+ArraySize(arrayInit);
