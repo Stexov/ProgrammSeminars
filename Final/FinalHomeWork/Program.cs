@@ -14,21 +14,20 @@ void PrintArray(string[] array)
 
 int ArraySize(string[] array)
 {
-    int m = 0;
+    int size = 0;
     for(int i = 0; i < array.Length; i++)
     {
         int s = array[i].Length;
-        if( s <= 3)
+        if(s <= 3)
         {
-            m++;
+            size++;
         }
     }
-    return m;
+    return size;
 }
-int ArraySourse(string array, int m)
+string[] ArraySourse(string[] array, string[] arrayFinal)
 {
     int j = 0;
-    string arrayFinal = new string[m];
     for(int i = 0; i < array.Length; i++)
     {
         int s = array[i].Length;
@@ -52,6 +51,10 @@ for(int i = 0; i < n; i++)
 
 Console.WriteLine("Исходный массив");
 PrintArray(arrayInit);
+int m = ArraySize(arrayInit);
+Console.Write($"Количество удолетворящих элементов = {m}");
+Console.WriteLine();
+string[] arrayFinal = new string[m];
+ArraySourse(arrayInit, arrayFinal);
 Console.WriteLine("Искомый массив");
-ArraySize(arrayInit);
-ArraySourse(arrayInit, m);
+PrintArray(arrayFinal);
